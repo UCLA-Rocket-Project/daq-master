@@ -1,0 +1,12 @@
+{
+    "name": "DAQ-master",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_ucladaq.json",
+            "credentialsFile": "flows_ucladaq_cred.json"
+        }
+    }
+}
